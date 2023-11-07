@@ -1,0 +1,14 @@
+{
+  "description": "Foobar Extension",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "vsixId": "Foobar.Newer.46e6da42-c075-46ea-8440-b47d7ee16495",
+      "name": "Foobar.Newer (17.8 and above)"
+    },
+    {
+      "vsixId": "Foobar.Older.29f3df7f-dddd-468e-be2e-c59439d1dd60",
+      "name": "Foobar.Older - (17.7 and below)"
+    }
+  ]
+}
